@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+the car as it approaches the stop
 Use the left arrow to go back!
 
